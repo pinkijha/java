@@ -17,10 +17,7 @@ public class Hello {
 
         for (int i = 0; i < rolls.length; i++) {
 
-            if(int mark=98)
-            {
-                System.out.println(name[0]);
-            }
+
 
 
             System.out.println(rolls[i]);
